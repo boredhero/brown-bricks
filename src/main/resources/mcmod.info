@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brown_bricks",
+  "name": "Brown Bricks",
+  "description": "§oHmm, do you have that game, Miney Crafta? Penny was telling me she was playing it on her computer book. Let's play Miney Crafta! Do you know what my favorite thing to do is in Minecrap? I love building bricks with Minecrap. Building bricks with Minecrap is the best thing and the most amount of fun you can have while playing an app. I understand why all the kids are playing this game these days -- it's because they like to build brown bricks with Minecrap. I also like to build brown bricks with Minecrap. It's the most fun you can possibly have.",
+  "version": "MineyCrafta",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/watch?v=FW8cSYfWCbM",
+  "updateUrl": "",
+  "authorList": ["§5§lNoah Martino"],
+  "credits": "https://www.youtube.com/watch?v=FW8cSYfWCbM",
+  "logoFile": "brown_bricks.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

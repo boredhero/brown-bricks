@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AA ",
+		"AA ",
+		"   "
+	],
+	"key": {
+		"A": {
+			"item": "brown_bricks:brown_brick"
+		}
+	},
+	"result": {
+		"item": "brown_bricks:brown_bricks_block"
+	}
+}

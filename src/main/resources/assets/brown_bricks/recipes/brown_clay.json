@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:dirt",
+			"data": 0
+		},
+		{
+			"item": "minecraft:clay_ball",
+			"data": 0
+		}
+	],
+	"result": {
+		"item": "brown_bricks:brown_clay"
+	}
+}

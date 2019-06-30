@@ -1,0 +1,12 @@
+#Creative Tab
+itemGroup.brown_bricks=Brown Bricks
+#Mod Items
+item.brown_bricks.brown_brick.name=Brown Brick
+item.brown_bricks.brown_clay.name=Brown Clay
+#Mod Blocks
+tile.brown_bricks.brown_bricks_block.name=Brown Bricks
+#Minecraft Overrides
+tile.dirt.name=Brown Bricks
+tile.dirt.default.name=Brown Bricks
+tile.dirt.coarse.name=Brown Bricks
+tile.dirt.podzol.name=Brown Bricks
