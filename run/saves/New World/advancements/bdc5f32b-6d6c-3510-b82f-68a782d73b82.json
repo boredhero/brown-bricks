@@ -1,0 +1,20 @@
+{
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-06-29 22:37:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-06-29 22:37:46 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-06-29 22:37:46 -0400"
+    },
+    "done": true
+  }
+}

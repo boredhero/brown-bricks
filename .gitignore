@@ -1,22 +1,16 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
-
-# idea
-out
-*.ipr
-*.iws
-*.iml
-.idea
-
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
+#Folders
+eclipse/
+.settings/
+build/
+#Files
+/.classpath
+/.project
+/CREDITS-fml.txt
+/forge-1.12.2-14.23.5.2838-changelog.txt
+/LICENSE-new.txt
+/MinecraftForge-Credits.txt
+/Paulscode IBXM Library License.txt
+/Paulscode SoundSystem CodecIBXM License.txt
+/brown-bricks_Client.launch
+/brown-bricks_Server.launch
+/bin/
